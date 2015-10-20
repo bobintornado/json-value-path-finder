@@ -1,0 +1,25 @@
+{
+  "name": "json-value-path-finder",
+  "version": "0.0.1",
+  "description": "find the value of json file by path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobintornado/json-value-path-finder.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Bob Cao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobintornado/json-value-path-finder/issues"
+  },
+  "homepage": "https://github.com/bobintornado/json-value-path-finder#readme",
+  "dependencies": {
+    "json-query": "^1.5.0"
+  }
+}
