@@ -7,4 +7,4 @@ run `node index.js`.
 
 ## Reference
 
-This use [json-query]<https://github.com/mmckegg/json-query> to query the json object
+This use [json-query](https://github.com/mmckegg/json-query) to query the json object
